@@ -10,4 +10,3 @@ public:
     Node();
     Node(int value);
 };
-
